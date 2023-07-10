@@ -37,6 +37,7 @@ public class Main {
     }
 
 
+
     public static void task2 () {
         System.out.println("\nЗадача 4");
 
